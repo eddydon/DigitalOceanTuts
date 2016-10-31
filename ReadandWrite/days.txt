@@ -1,0 +1,15 @@
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+The function also allows for many other parameters. However, most important is the optional mode parameter. Mode is an optional string that specifies the mode in which the file is opened. The mode you choose will depend on what you wish to do with the file. Here are some of our mode options:
+
+'r' : use for reading
+'w' : use for writing
+'x' : use for creating and writing to a new file
+'a' : use for appending to a file
+'r+' : use for reading and writing to the same file
